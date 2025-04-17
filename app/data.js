@@ -151,7 +151,7 @@ export const contactSection = {
     "Interested in partnering with Rebirth Labs or learning more about our approach? We'd love to hear from you.",
   email: "hello@rebirthlabs.com",
   phone: "+1 (800) 555-SKIN",
-  address: "123 Innovation Way, San Francisco, CA 94107",
+  address: "592 3rd Ave 3RN, New York, New York, 10016",
   socialMedia: [
     { platform: "Instagram", url: "https://instagram.com/rebirthlabs", icon: "instagram" },
     { platform: "Twitter", url: "https://twitter.com/rebirthlabs", icon: "twitter" },
